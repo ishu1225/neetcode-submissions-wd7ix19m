@@ -1,6 +1,5 @@
-# NeetCode Solutions — @ishu1225
+#Problem Solving(DSA) — @ishu1225
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-wd7ix19m`
 
 ---
 
